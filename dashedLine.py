@@ -10,8 +10,6 @@ cursor.color("yellow")
 screen = turtle.Screen()
 screen.bgcolor("blue")
 
-turtle.ht()
-
 """
 Classes and methods 
 
@@ -19,6 +17,7 @@ The drawing is controlled by pen and it is required to learn about method of pen
 
 1) pendown() : The drawing is shown on the turtle screen
 2) pendown() : The drawing is not displayed on the screen 
+3) speed() : It speeds up the animation
 
 """
 
